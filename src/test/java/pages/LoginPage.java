@@ -63,7 +63,7 @@ public class LoginPage
 
     }
 
-    public void fillPhone() {phoneInpt.sendKeys("5412000005");}
+    public void fillPhone() {phoneInpt.sendKeys("5377406663");}
     public void isRememberMe()
     {
         if (chkboxRemember.isSelected())
